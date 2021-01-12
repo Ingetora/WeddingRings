@@ -1,7 +1,5 @@
 body{
     background-color: #FFF0F5;
-    /* background: url("https://i.pinimg.com/originals/e3/b0/0e/e3b00e0220fad26bb7c8e1ea3813b239.jpg"); */
-    /* background-image: linear-gradient(to bottom rgba(255, 255, 255, 0.3)), url("https://i.pinimg.com/originals/e3/b0/0e/e3b00e0220fad26bb7c8e1ea3813b239.jpg"); */
     background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("https://i.pinimg.com/originals/e3/b0/0e/e3b00e0220fad26bb7c8e1ea3813b239.jpg");
     background-size: cover;
 }
@@ -24,6 +22,7 @@ p {
     text-align: center;
     color: navy; 
     font-family: Bahnschrift Light, arial;
+
 }
 img {
     display: block;
@@ -33,7 +32,7 @@ img {
     height: 500px;
     overflow: hidden;
     border-radius: 50%;
-    cursor: pointer;
+    
   }
 
   img:hover{
